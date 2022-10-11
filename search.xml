@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>termux换源</title>
+      <link href="/2022/10/11/termux%E6%8D%A2%E6%BA%90/"/>
+      <url>/2022/10/11/termux%E6%8D%A2%E6%BA%90/</url>
+      
+        <content type="html"><![CDATA[<p>第一步 输入 termux-change-repo<br>第二步 直接回车<br>      <img src="https://img2022.cnblogs.com/blog/1115571/202205/1115571-20220509132454736-409317427.png"><br>第三步 方向键选择找到中科大的源 ustc<br>第四步 按空格选择，然后回车确定<br>第五步 pkg update</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> termux </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>红米2 date分区挂载报错</title>
       <link href="/2022/10/11/%E7%BA%A2%E7%B1%B32-date%E5%88%86%E5%8C%BA%E6%8C%82%E8%BD%BD%E6%8A%A5%E9%94%99/"/>
       <url>/2022/10/11/%E7%BA%A2%E7%B1%B32-date%E5%88%86%E5%8C%BA%E6%8C%82%E8%BD%BD%E6%8A%A5%E9%94%99/</url>
