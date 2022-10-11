@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>红米2 date分区挂载报错</title>
+      <link href="/2022/10/11/%E7%BA%A2%E7%B1%B32-date%E5%88%86%E5%8C%BA%E6%8C%82%E8%BD%BD%E6%8A%A5%E9%94%99/"/>
+      <url>/2022/10/11/%E7%BA%A2%E7%B1%B32-date%E5%88%86%E5%8C%BA%E6%8C%82%E8%BD%BD%E6%8A%A5%E9%94%99/</url>
+      
+        <content type="html"><![CDATA[<p>第一步 刷入一个第三方Recovery<br>第二步 点击清除按钮<br>第三步 点击高级清除<br>第四步 勾选Data分区然后点击修复或改变文件系统<br>第五步 选择改变文件格式<br>      Data分区格式为EXT4 可以更改为其他格式，例如：EXT2<br>第六步 改变成功后 再次点击EXT4 改回去原来的格式<br>第七步 返回点击修复文件系统 滑动修复</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
